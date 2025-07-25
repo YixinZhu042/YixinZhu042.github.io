@@ -11,3 +11,8 @@ My name is **Yixin Zhu (祝亦欣)**, which can be pronounced as "Ee shin Joo". 
 
 My research interest mainly focuses on artificial intelligence generative content and computer graphics. I an trying to resolve some problems such as neural rendering and material generation.
 
+# News {news}
+
+
+# Publications {publications}
+
