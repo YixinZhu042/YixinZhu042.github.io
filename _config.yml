@@ -21,8 +21,8 @@ repository               : "YixinZhu02/YixinZhu042.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yixin's account"
+  avatar           : "avatar.jpg"
+  name             : "Personal information"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Nanjing University, Suzhou Campus."
   location         : "Suzhou, Jiangsu, China"
