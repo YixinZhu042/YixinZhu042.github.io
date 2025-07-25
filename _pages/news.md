@@ -1,5 +1,5 @@
 ---
-permalink: /News
+permalink: /News/
 title: "News"
 author_profile: false
 redirect_from: 
