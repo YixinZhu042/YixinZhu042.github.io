@@ -1,11 +1,3 @@
-<!-----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---->
 # About me 
 <section id="about-me">
 My name is **Yixin Zhu (祝亦欣)**, which can be pronounced as "Ee shin Joo". I am now a master student in School of Intellengece and Science, Nanjing university, supervised by Prof. [BeiBei Wang](https://wangningbei.github.io/). I obtained my bachelor's degree from Chang'an University.
