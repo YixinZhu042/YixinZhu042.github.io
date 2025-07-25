@@ -6,10 +6,10 @@
 
 main:
   - title: "About me"
-    url: /about/
+    url: /about-me/
 
   - title: "News"
     url: /news/
 
   - title: "Publication"
-    url: /publication/
+    url: /publications/
