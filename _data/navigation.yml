@@ -6,10 +6,10 @@
 
 main:
   - title: "About me"
-    url: /
+    url: /#about-me  # 指向主页的 #about-me 区域
 
   - title: "News"
-    url: /news/
+    url: /#news      # 指向主页的 #news 区域
 
   - title: "Publication"
-    url: /publications/
+    url: /#publications # 指向主页的 #publications 区域
