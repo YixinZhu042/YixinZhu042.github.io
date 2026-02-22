@@ -15,9 +15,9 @@ My research interest mainly focuses on artificial intelligence generative conten
 ---
 
 # News <a id="news"></a>
-There is no news currently.
+Feb. 2026: We have one paper accepted to CVPR 2026!
 
 ---
 
 # Publication <a id="publications"></a>
-I have no publications currently.
+[WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982)
