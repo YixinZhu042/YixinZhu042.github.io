@@ -4,4 +4,4 @@ title: "News"
 author_profile: false
 ---
 
-There is no news currently.
+Feb. 2026: We have one paper accepted to CVPR 2026!
