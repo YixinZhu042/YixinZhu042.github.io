@@ -9,7 +9,7 @@ redirect_from:
 
 # About me <a id="about-me"></a>
 
-My name is **Yixin Zhu (祝亦欣)**. I am currently a 2nd-year Master's student at the School of Artificial Intelligence, Nanjing University, where I am fortunate to be supervised by [Prof. Beibei Wang](https://wangningbei.github.io/). Before that, I obtained my Bachelor's degree from Chang'an University.
+My name is **Yixin Zhu (祝亦欣)**. I am currently a 2nd-year Master's student at the School of Intelligence Science and Technology, Nanjing University, where I am fortunate to be supervised by [Prof. Beibei Wang](https://wangningbei.github.io/). Before that, I obtained my Bachelor's degree from Chang'an University.
 
 My research interests mainly focus on AIGC and embodied AI. My research goal is to bridge the gap between generative AI and the physical world, focusing on controllable scene editing, physics-based rendering, and high-fidelity 3D asset generation for embodied AI.
 
