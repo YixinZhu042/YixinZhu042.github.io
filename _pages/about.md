@@ -8,16 +8,19 @@ redirect_from:
 ---
 
 # About me <a id="about-me"></a>
-My name is Yixin Zhu (祝亦欣), which can be pronounced as "Ee shin Joo". I am now a master student in School of Intelligence and Science, Nanjing university, supervised by Prof. [BeiBei Wang](https://wangningbei.github.io/). I obtained my bachelor's degree from Chang'an University.
 
-My research interest mainly focuses on artificial intelligence generative content and computer graphics. I am trying to resolve some problems such as neural rendering and material generation.
+My name is **Yixin Zhu (祝亦欣)**. I am currently a 2nd-year Master's student at the **School of Artificial Intelligence, Nanjing University (NJU)**, where I am fortunate to be supervised by [Prof. Beibei Wang](https://wangningbei.github.io/). Before that, I obtained my Bachelor's degree from Chang'an University.
+
+My research interests mainly focus on AIGC and embodied AI. My research goal is to bridge the gap between generative AI and the physical world, focusing on physics-aware scene editing, physics-based rendering (PBR), and high-fidelity 3D asset generation for embodied AI.
 
 ---
 
 # News <a id="news"></a>
-Feb. 2026: We have one paper accepted to CVPR 2026!
+[2026.02] We have one paper accepted to CVPR 2026!
 
 ---
 
 # Publication <a id="publications"></a>
-[WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982)
+### [WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982)
+**Yixin Zhu**, Zuoliang Zhu, Jian Yang, Miloš Hašan, Jin Xie, Beibei Wang *CVPR 2026*
+
