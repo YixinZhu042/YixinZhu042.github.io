@@ -24,6 +24,6 @@ My research interests mainly focus on AIGC and embodied AI. My research goal is 
 ### [WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982)
 **Yixin Zhu**, Zuoliang Zhu, Jian Yang, Miloš Hašan, Jin Xie, Beibei Wang <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026* <br>
-[[Paper]](https://arxiv.org/abs/2508.06982) [[Project Page]] [[Code]]
+[[Paper]](https://arxiv.org/abs/2508.06982) [Project Page] [Code]
 
 
