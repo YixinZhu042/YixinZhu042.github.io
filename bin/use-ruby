@@ -1,0 +1,8 @@
+#!/usr/bin/env zsh
+# Source this file from the project root to use the local Ruby 3.3.6 runtime:
+#   source bin/use-ruby
+export PATH="/Users/easontzhu/Desktop/code/.rubies/ruby-3.3.6/bin:$PATH"
+export GEM_HOME="$PWD/.bundle/ruby/3.3.0"
+export GEM_PATH="$GEM_HOME"
+export BUNDLE_PATH="$PWD/.bundle"
+echo "Using $(ruby -v)"

@@ -11,3 +11,7 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+# Local development artifacts
+.bundle/
+.DS_Store
+c3bbeca2-20dc-415d-99d0-4baebf91a928.png
