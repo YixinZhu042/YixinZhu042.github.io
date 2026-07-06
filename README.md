@@ -1,3 +1,6 @@
+# cd /Users/easontzhu/Desktop/code/YixinZhu042.github.io && PATH="$PWD/../.rubies/ruby-3.3.6/bin:$PATH" bundle install && PATH="$PWD/../.rubies/ruby-3.3.6/bin:$PATH" bundle exec jekyll serve --livereload --host 127.0.0.1 --port 4000
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yixin's website!"
+title: "Yixin Zhu | Generative AI & Embodied Intelligence"
 layout: home
 author_profile: false
 redirect_from:
@@ -11,17 +11,14 @@ redirect_from:
 {% include base_path %}
 
 <section class="hero-section" id="about-me" aria-labelledby="hero-title">
-  <div class="hero-bg hero-bg--one"></div>
-  <div class="hero-bg hero-bg--two"></div>
-
   <div class="hero-grid">
     <div class="hero-copy">
-      <p class="eyebrow">AIGC · Embodied AI · Physical World Generation</p>
+      <p class="eyebrow">Generative AI · Embodied Intelligence · Physical Simulation</p>
       <h1 id="hero-title">Yixin Zhu <span>祝亦欣</span></h1>
-      <p class="hero-subtitle">Master's student in artificial intelligence at Nanjing University, working on generative AI for controllable, physically grounded visual worlds.</p>
+      <p class="hero-subtitle">Master's student at Nanjing University researching controllable visual generation, physically grounded rendering, and embodied AI benchmarks.</p>
 
       <div class="hero-actions" aria-label="Primary links">
-        <a class="btn-primary" href="#publications">View Publications</a>
+        <a class="btn-primary" href="#publications">Research Highlights</a>
         <a class="btn-secondary" href="mailto:yixinzhu@smail.nju.edu.cn">Contact Me</a>
       </div>
 
@@ -31,25 +28,21 @@ redirect_from:
           <span>School of Intelligence Science and Technology</span>
         </div>
         <div>
-          <strong>Suzhou, Jiangsu</strong>
-          <span>China</span>
-        </div>
-        <div>
-          <strong>CVPR 2026</strong>
-          <span>Accepted paper</span>
+          <strong>Research Focus</strong>
+          <span>AIGC, embodied AI, and physically grounded visual worlds</span>
         </div>
       </div>
     </div>
 
-    <aside class="profile-card" aria-label="Personal information">
+    <aside class="profile-card" aria-label="Contact and profile">
       <div class="profile-image-wrap">
         <img src="{{ base_path }}/images/avatar.jpg" alt="Yixin Zhu profile photo" class="profile-image">
       </div>
       <div class="profile-card-body">
-        <h2>Personal information</h2>
-        <p>Master's student in Nanjing University, Suzhou Campus.</p>
+        <h2>Profile Snapshot</h2>
         <ul class="profile-links">
-          <li><span>Location</span><strong>Suzhou, Jiangsu, China</strong></li>
+          <li><span>Expected Graduation</span><strong>2027</strong></li>
+          <li><span>Research Internship</span><strong>Tencent Hunyuan</strong></li>
           <li><span>Email</span><a href="mailto:yixinzhu@smail.nju.edu.cn">yixinzhu@smail.nju.edu.cn</a></li>
           <li><span>GitHub</span><a href="https://github.com/YixinZhu042">YixinZhu042</a></li>
           <li><span>ORCID</span><a href="https://orcid.org/0009-0000-9876-5404">0009-0000-9876-5404</a></li>
@@ -98,12 +91,10 @@ redirect_from:
 <section class="content-section" id="publications" aria-labelledby="publications-title">
   <div class="section-heading section-heading--row">
     <div>
-      <p class="section-kicker">Publication</p>
-      <h2 id="publications-title">Selected research</h2>
+      <p class="section-kicker">Publications</p>
+      <h2 id="publications-title">Selected research highlights</h2>
     </div>
   </div>
-
-
 
   <article class="publication-card publication-card--viser">
     <div class="publication-visual publication-visual--viser-image" aria-hidden="true">
